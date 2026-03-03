@@ -1,7 +1,7 @@
 # Dengue Forecasting Models: A Systematic Review  and Network Meta-Analysis of Relative  Performance
 
 ## Abstract / Summary
-This repository contains the data and analytical code for a systematic review and Network Meta-Analysis (NMA) of Dengue forecasting models. The study evaluates the predictive performance of various model categories using Root Mean Square Error (RMSE) as the primary metric. By utilizing a Bayesian NMA framework, we compare diverse forecasting methodologies across different studies and identify which model types and covariate categories are most frequently and effectively employed.
+This repository contains the data and analytical code in the paper **Dengue Forecasting Models: A Systematic Review and Network Meta-Analysis of Relative Performance.** doi: [https://doi.org/10.64898/2026.02.18.26346534](https://doi.org/10.64898/2026.02.18.26346534). The study evaluates the predictive performance of various model categories using Root Mean Square Error (RMSE) as the primary metric. By utilising a Bayesian NMA framework, we compare diverse forecasting methodologies across different studies and identify which model types and covariate categories are most frequently and effectively employed.
 
 ---
 
@@ -86,4 +86,6 @@ To reproduce the analysis, run the scripts in the following order:
 
 If you use this code or data in your research, please cite:
 
-> Pitak Benjarattanaporn, Debebe Shaweno Adewo, Anthea Sutton, Andrew Lee, and Pete J. Dodd. (2026). **Dengue Forecasting Models: A Systematic Review Incorporating a Network Meta-Analysis and Comparative Analysis of Methodologies.** *medRxiv*. doi: [https://doi.org/10.64898/2026.02.18.26346534](https://doi.org/10.64898/2026.02.18.26346534)
+> Dengue Forecasting Models: A Systematic Review and Network Meta-Analysis of Relative Performance
+Pitak Benjarattanaporn, Debebe Adewo, Anthea Sutton, Andrew Lee, Peter J. Dodd
+medRxiv 2026.02.18.26346534; doi: [https://doi.org/10.64898/2026.02.18.26346534](https://doi.org/10.64898/2026.02.18.26346534)
